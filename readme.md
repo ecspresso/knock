@@ -1,3 +1,6 @@
+# Latest version
+The original source for fhis project has have been moved here: https://github.com/esn/knock.
+
 # Arcive link
 http://web.archive.org/web/20221016154220/https://github.com/BentonEdmondson/knock
 
